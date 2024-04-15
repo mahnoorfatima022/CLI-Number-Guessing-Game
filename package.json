@@ -1,0 +1,21 @@
+{
+  "name": "m1907-cli-number-guessing-game",
+  "version": "1.0.1",
+  "description": "A CLI Based Number Guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+  "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "m1907-cli-number-guessing-game": "^1.0.0"
+  }
+}
